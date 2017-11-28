@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Before assembling"
+exec /usr/libexec/s2i/assemble
