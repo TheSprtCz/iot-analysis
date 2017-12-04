@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Before run"
-./opt/rh/rh-maven33/root/usr/share/maven/bin/mvn camel:run

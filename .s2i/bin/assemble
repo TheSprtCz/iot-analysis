@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Before assembling"
-exec /usr/local/s2i/assemble
